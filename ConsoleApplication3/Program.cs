@@ -11,6 +11,7 @@ namespace ConsoleApplication3
         static void Main(string[] args)
         {
             Console.Write("Hello world");
+            Console.Write(5+6);
             Console.ReadLine();
         }
     }

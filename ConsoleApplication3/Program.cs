@@ -12,6 +12,7 @@ namespace ConsoleApplication3
         {
             Console.Write("Hello world");
             Console.Write(5+6);
+            Console.Write(5 + 6);
             Console.ReadLine();
         }
     }
